@@ -44,7 +44,6 @@ for ( var i = 0; i < data.length; i++ ) {
 }
 
 var json = toJSON( data );
-console.log( json );
 /*
 	{
 		"type": "Int8Array",
