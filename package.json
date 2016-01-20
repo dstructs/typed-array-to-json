@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "dstructs-cast-arrays": "^1.0.2",
-    "type-name": "^1.1.0",
+    "type-name": "2.x.x",
     "validate.io-typed-array": "^1.0.0"
   },
   "devDependencies": {
